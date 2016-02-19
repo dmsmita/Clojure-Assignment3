@@ -1,0 +1,16 @@
+Assignment 3 Grades
+
+Basic commands	16/16
+run mode	14/14
+step mode	10/20
+  Run mode and step mode produce different results -10
+undo		20/20
+state		20/20
+Graphics in Quil	25/25
+Code Quality	6/10
+  Use let rather than nesting def in defn
+  Use cond rather than sequence of if
+Show last move	10/10
+Other		10/10
+
+total		131/145
